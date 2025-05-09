@@ -36,7 +36,7 @@
 - ✅ Tester for **ICPC Syrian Collegiate Contest 2024**
 - 💻 Online Judges:
   - [Codeforces](https://codeforces.com/profile/Ahmed_Ashraf_f)
-  - [LeetCode]([https://leetcode.com/](https://leetcode.com/u/boAshraf/))
+  - [LeetCode](https://leetcode.com/u/boAshraf)
 
 ---
 
