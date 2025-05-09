@@ -41,10 +41,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ashraf-f&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ashraf-f&theme=tokyonight&hide_border=true" width="48%" /> </p>
 
 ---
 
@@ -55,5 +52,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Ashraf-f&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
