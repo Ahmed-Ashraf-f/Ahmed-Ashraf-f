@@ -48,9 +48,15 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Backend Development
+<div>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -59,10 +65,16 @@
 
 ---
 
-## 📂 Featured Projects
+## 💼 Projects
+| Project | Tech Stack | Status | Links |
+|---------|------------|--------|-------|
+| **Delivery App Backend** | Node.js, TypeScript, PostgreSQL | 🔧 In Progress | 🔒 Private Code |
+| **Ask.fm** | C++, STL, OOP | ✅ Completed | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Ashraf-f/AskFm) |
+| **Library Management System** | C++, STL, OOP | ✅ Completed | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Ashraf-f/LibrarySystem) |
+| **Hospital Queue System** | C++, STL, OOP | ✅ Completed | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Ahmed-Ashraf-f/HospitalSystem) |
 
-*More on the way...*
 
+<sub>🔧 = In Progress | ✅ = Completed | 🔒 = Private Code</sub>
 ---
 
 ## 📚 Education & Community Work
