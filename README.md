@@ -122,8 +122,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-ashraf-7133aa224)
 [![Gmail](https://img.shields.io/badge/Email-ahm.12ed.m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahm.12ed.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-ashraf-7133aa224)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ahmed_Ashraf_f)
 
 </div>
